@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+/논문요약/
+*.pdf
+.env
